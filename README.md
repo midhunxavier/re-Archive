@@ -7,9 +7,9 @@
 This is a decentralized web3.0 version of the Re Archive website built for EVM compatible blockchains (Ethereum, Polygon,...) for the re-use and re-activation
 of the architectural heritage in Northern sparsely populated areas.
 
+![image](https://github.com/user-attachments/assets/9bfe4d45-b030-424d-8a21-e6deaaa3d159)
+
 </p>
-
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
