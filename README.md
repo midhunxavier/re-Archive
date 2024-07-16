@@ -177,7 +177,7 @@ yarn start
 
 ## Contact
 
-If you have any question or problem running this project just contact me: aymenMir1001@gmail.com
+If you have any question or problem running this project just contact me: midhunxavier@ltu.se
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
