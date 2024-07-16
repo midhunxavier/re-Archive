@@ -123,9 +123,15 @@ The app allows users to rent any place in the world and pay in crypto, it's stru
 - The Rentals page is where the user is redirected after entering the holiday information, it contains a list of all the properties that match the user
   requirements, and also shows the location of these on a map provided by Google-maps
 
+![image](https://github.com/user-attachments/assets/68baa2a8-cabb-4cc1-b3e5-deccb190d880)
+
 - Each user has their own Dashboard, it can be accessed by clicking on the account button in the top of the page, this dashboard shows all the user properites listed for renting and the reservations he has booked.
 
+![image](https://github.com/user-attachments/assets/4710522f-f9b1-44c9-a279-fbdd771cdc15)
+
 - In the Dashboard page there is a button "Add rental", which redirect the user to the AddRental page where he can list a new rental by providing a set of metadata (property name, city, latitude, longitude, description, maximum number of guests, rent price per day in $), note that it's really important to give the exact property (latitude, longitude) as they are later used to show the location on the Google map
+
+![image](https://github.com/user-attachments/assets/dec5561e-6b0f-44a3-83e1-7ba7bcabbca6)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
