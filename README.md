@@ -79,7 +79,8 @@ The code for the UI can be found in the src folder (as in all reactjs apps)
 
 3. As infura recently removed its free IPFS gateway i used `web3.storage` api for storing rentals images into IPFS, this api is as simple as infura it requires the creation of a free account and a new api token which you can do [here](https://web3.storage), when you finish add your api token into the `src/utils/StoreContent.js` file:
    ```js
-   const web3storage_key = "YOUR-WEB3.STORAGE-API-TOKEN";
+   const KEY ="";
+   const PROOF = "";
    ```
 4. Get the Google maps api-key (it's free) [here](https://developers.google.com/maps/documentation/embed/get-api-key) and add it to the src/component/RentalsMap.js file:
    ```sh
