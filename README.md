@@ -77,7 +77,7 @@ The code for the UI can be found in the src folder (as in all reactjs apps)
 
    - <b>Note :</b> I used the ganache network just for testing, if you want to deploy directly to a real/test network you'll need to add your real private key in the .env file.
 
-3. As infura recently removed its free IPFS gateway i used `web3.storage` api for storing rentals images into IPFS, this api is as simple as infura it requires the creation of a free account and a new api token which you can do [here](https://web3.storage), when you finish add your api token into the `src/utils/StoreContent.js` file:
+3.  `web3.storage` api is used for storing rentals images into IPFS, this api is as simple as infura it requires the creation of a free account and a new api token which you can do [here](https://web3.storage), when you finish add your api token into the `src/utils/StoreContent.js` file:
    ```js
    const KEY ="";
    const PROOF = "";
