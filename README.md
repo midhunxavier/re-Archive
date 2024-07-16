@@ -70,7 +70,7 @@ The code for the UI can be found in the src folder (as in all reactjs apps)
 
 1. Clone the repository and install all the required packages by running:
    ```sh
-   git clone **********
+   git clone git@github.com:midhunxavier/re-Archive.git
    cd reArchive
    yarn
    ```
